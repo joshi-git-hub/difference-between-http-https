@@ -1,0 +1,7 @@
+there are basic difference between http and https
+1.)in HTTP any url starts with http:// and in HTTPS any url starts with https://
+2.)Http is not consider to be secure and HTTPS is secure because of using CA Certificate.
+3.)Http use 80 port number for communication and HTTPS use 443.
+4.)HTTP work at Application layer and HTTPS works at Transport Layer.
+5.)HTTP does not require any certificate but for HTTPS SSL certificate is used.
+6.)in HTTP comunication happens in plain text but in HTTPS it happens in Incrypted. 
